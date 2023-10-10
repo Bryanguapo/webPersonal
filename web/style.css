@@ -2,6 +2,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
+      color:#fff
     }
     header {
       background-color: #333;
@@ -34,4 +35,9 @@
     div {
       padding: 20px;
     }
-
+    body {
+      background-image: url('https://cdn9.idcgames.com/storage/image/1100/lol-news/default.jpg');
+      background-size: cover; 
+      background-repeat: repeat; 
+      background-attachment: fixed; 
+  }
